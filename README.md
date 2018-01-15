@@ -4,7 +4,7 @@
 
 *******************************************************************************************************************************************
 
-This course is taken by Dr. To Chen at Colorado State University, Fort Collins. This course teaches us various techniques to design digital circuits viz. CMOS, gate-level etc. 
+This course is taken by Dr. Tom Chen at Colorado State University, Fort Collins. This course teaches us various techniques to design digital circuits viz. CMOS, gate-level etc. 
 It also teaches the concepts of designing combinational circuits, sequential circuits, designing SRAM DRAM and Flash memory. 
 The course content also included minizing the logic using Qunine McCluskey algorithm and Karnaugh's map.
 Also, we learnt about removing static hazards and glitches in the circuit and how to analyze the timing behavior of the circuit i.e. how to design circuit which would meet set-up and hold time requirements to avoid jitter and skew so that the circuit does not fail to meet its timing deadlines. 
